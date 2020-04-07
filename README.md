@@ -1,6 +1,8 @@
 # Calcv0.1
-## (Re-up) Calculadora básica feita em python
-##### Desenvolvido por Wesley Dias, em 2018
+(Re-up) Calculadora básica feita em python
 
-### Prévia:
+### Resultado
 ![previa](https://raw.githubusercontent.com/WeDias/Calcv0.1/master/CalculadoraV0.1/Ignorar/calcimagem.png)
+
+---
+###### ✏️ Desenvolvido por: [*Wesley Dias*](https://github.com/WeDias)
